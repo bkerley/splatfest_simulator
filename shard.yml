@@ -1,0 +1,13 @@
+name: splatfest_simulator
+version: 0.1.0
+
+authors:
+  - Bryce Kerley <bkerley@brycekerley.net>
+
+targets:
+  splatfest_simulator:
+    main: src/splatfest_simulator.cr
+
+crystal: 0.27.2
+
+license: MIT
